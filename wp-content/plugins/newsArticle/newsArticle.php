@@ -1,9 +1,9 @@
 <?php
 
 /*
-Plugin Name: Form Short Code
+Plugin Name: News Articles
 Plugin URI: http://wordpress.org/plugins/form-shortcode/
-Description: This plugin creates a short code for form submission.
+Description: This plugin creates News articles post type.
 Author: Khizer Jan
 Version: 0.0.1
 */
